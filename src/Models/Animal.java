@@ -9,7 +9,7 @@ public interface Animal {
         System.out.println("someoutput");
     }
     //in case you include body -> you have to
-    // 1) wither make default method with keyword default
+    // 1) whether make default method with keyword default
     // 2) make method static
 
     void method2();
