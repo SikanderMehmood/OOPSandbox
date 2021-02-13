@@ -1,0 +1,33 @@
+Arrays
+
+-> Collection of objects for the same data type
+-> Size cannot be changed after allocation as items are changed contigously
+
+If you need to store elements that will not change size , array is the way to go because it has little overhead.
+Takes longer to search.
+Must copy all items to a new list if items are more than the size allocated.
+We have to shift elements for insertion and deletion.
+
+
+--------Array takes less memory but time consming
+-------------------------------------------------
+
+LinkedList takes more memory and is more time Consuming as well.
+Very quick at inserting and deleting
+
+
+
+HASH-MAP
+
+HashMap<String,int> map = new HashMap();
+
+map.put("ONE",1);
+map.put("key",2);
+
+map.remove(key);
+
+System.out.println(map.values()); ->print all values in the map
+System.out.println(map.keySet()); ->print all keys in the map
+
+
+Searching/Insertion/Deletion is much faster with HashMap(), but it takes up more memory.

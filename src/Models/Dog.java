@@ -8,5 +8,9 @@ public abstract class Dog {
 
     public abstract void bark();
 
+    public String mathasd(){
+        return "asfa";
+    }
+
 
 }

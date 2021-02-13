@@ -1,0 +1,25 @@
+
+Dependency Injection
+
+Constructor injection are Mandatory injections , setter injections are not mandatory injections
+
+You can do setter injection like this
+
+@AutoWire(required=false)
+public void setAnimal(@Quilifier("dog") Animal animal){
+
+this.animal=animal;
+}
+
+ it will not give a compile time error
+ but when you try to access the bean that you did not create (with annotation @component) , it will give null pointer exception
+
+public class AutoWiredController{
+
+
+ @Autowire(required=false)
+ public AutoWiredController(@Qualifier("dog") Animal animal){
+   this.animal=animal;
+ }
+
+}
