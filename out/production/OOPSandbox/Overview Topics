@@ -1,0 +1,32 @@
+
+
+Topics:
+      1)  AOP ->Aspect oriented programming
+      2)  Inversion of Control
+      3) Dependency Injection
+
+
+
+
+
+      1) AOP
+      specify method interceptors and pointcuts
+      To execute something before and after the execution of the method
+      @Around
+      @Before
+      @After
+
+      Dependency Injection
+      It is mainly for loose Coupling.
+     You have two classes , Laptop and HardDrive
+     Laptop needs HardDrive Object so instead of tightCoupling(making an instance of hardDrive in the Laptop class) , you just inject that dependency.
+     You create and register bean of HardDrive object with @Component and then use this bean in Laptop Class with annotation @AutoWire
+
+     @AutoWire
+     HardDrive drive;
+
+     This also helps in unit testing , if your Laptop class is loosely coupled , you can mock this HardDrive class and to unit testing.
+
+
+     --------------------------
+     Java beans is an example of encapsulation.

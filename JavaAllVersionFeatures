@@ -1,0 +1,10 @@
+
+Features Till java 1.8
+
+Interface will only have abstract methods -> we cannot define methods in interface , we can only declare it. All methods of interface will be public abstract.
+
+
+
+----------------------Features of java 1.8
+
+Stream api was introduced.
