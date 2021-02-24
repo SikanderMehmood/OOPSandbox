@@ -1,4 +1,6 @@
 import Implementations.ChildClass;
+import Implementations.HippoAnimal;
+import Models.Animal;
 
 public class Main {
 
@@ -9,5 +11,8 @@ public class Main {
         childClass.staticFinalMethod();
         childClass.staticMethod();
         childClass.finalMehod();
+
+        HippoAnimal animal = new HippoAnimal();
+        animal.simplesimplemethods();
     }
 }

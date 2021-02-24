@@ -9,6 +9,8 @@ public class HippoAnimal implements Animal {
 
     }
 
+
+
     @Override
     public void method2() {
 
