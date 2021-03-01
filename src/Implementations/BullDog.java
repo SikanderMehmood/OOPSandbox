@@ -4,6 +4,21 @@ import Models.Dog;
 
 public class BullDog extends Dog {
 
+    static final int anInt;
+
+    static {
+
+        anInt = 1;
+    }
+
+    Dog dog = new Dog();
+
+    private BullDog() {
+
+    }
+
+    private BullDog(int i) {
+    }
 
 
     public void bark() {

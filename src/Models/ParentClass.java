@@ -1,10 +1,11 @@
 package Models;
 
-public class ParentClass {
+public abstract class ParentClass {
 
     public static int staticVariable;
     public static final int finalStaticVariable;
     public final int finalVariable;
+    private int x;
 
 
     static {

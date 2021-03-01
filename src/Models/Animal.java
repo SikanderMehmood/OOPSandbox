@@ -2,6 +2,7 @@ package Models;
 
 public interface Animal {
 
+
     String name = "OneStaticDog"; // it is by default static and final
 
 
