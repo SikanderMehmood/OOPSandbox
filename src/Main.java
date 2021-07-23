@@ -5,6 +5,8 @@ import Implementations.PoodleDog;
 import Models.Animal;
 import Models.Dog;
 
+import java.util.ArrayList;
+
 public class Main {
 
 
@@ -13,6 +15,10 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
+
+        ArrayList list=new ArrayList();
+        list.add("somedata");
 
         System.out.println("Main method");
 //        ChildClass childClass = new ChildClass();

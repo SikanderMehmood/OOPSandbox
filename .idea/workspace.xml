@@ -2,173 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95404820-710c-4a3d-b369-5289237019ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Topics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/SandBoxArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/SandBoxHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/SandBoxLinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/SandBoxLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/SandBoxTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Mammals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/ChildClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/ChildClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/HippoAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/HippoAnimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/LionAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/LionAnimal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/PoodleDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/PoodleDog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/ParentClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/ParentClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Implementations/BullDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implementations/BullDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Implementations/HippoAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implementations/HippoAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Implementations/LionAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implementations/LionAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Implementations/PoodleDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Implementations/PoodleDog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Models/ParentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/ParentClass.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="230963046">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="19" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.17" value="2" />
-          <entry key="project.open.time.19" value="2" />
-          <entry key="project.open.time.2" value="7" />
-          <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.34" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.62" value="1" />
-          <entry key="project.opened" value="21" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="Answers" value="2" />
-          <entry key="DATA-STRUCTURE" value="1" />
-          <entry key="JavaAllVersionFeatures" value="2" />
-          <entry key="Overview Topics" value="2" />
-          <entry key="Spring basics" value="2" />
-          <entry key="SpringBoot" value="2" />
-          <entry key="Static Informatioin" value="2" />
-          <entry key="Topics" value="2" />
-          <entry key="concepts" value="1" />
-          <entry key="java" value="33" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="33" />
-          <entry key="PLAIN_TEXT" value="16" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="Answers" value="584" />
-          <entry key="DATA-STRUCTURE" value="974" />
-          <entry key="JavaAllVersionFeatures" value="279" />
-          <entry key="Overview Topics" value="991" />
-          <entry key="Spring basics" value="24" />
-          <entry key="SpringBoot" value="649" />
-          <entry key="Static Informatioin" value="869" />
-          <entry key="Topics" value="243" />
-          <entry key="concepts" value="4513" />
-          <entry key="java" value="2391" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2391" />
-          <entry key="PLAIN_TEXT" value="9126" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Models/ParentClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-              <folding>
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Models/Dog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Implementations/BullDog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Topics">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Models/Animal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#441#442#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Implementations/HippoAnimal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -216,7 +63,10 @@
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1vNldRlEhSVQsGhkfe0UmcWLgEB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -237,23 +87,22 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614545202246" />
-    <property name="last_opened_file_path" value="D:/github/--Helping Material/Sandbox/demo/build.gradle" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -272,6 +121,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -303,6 +153,8 @@
       <workItem from="1614247637900" duration="818000" />
       <workItem from="1614278780177" duration="7212000" />
       <workItem from="1614428296963" duration="5834000" />
+      <workItem from="1627029106355" duration="265000" />
+      <workItem from="1627032501888" duration="1207000" />
     </task>
     <servers />
   </component>
@@ -344,10 +196,36 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Models.java" />
