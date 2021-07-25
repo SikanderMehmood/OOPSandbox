@@ -1,0 +1,11 @@
+
+
+Java Map does not allow duplicate keys
+duplicate values are allowed as well null values (TreeMAP cannot have a null key)
+
+
+
+//
+Fail fast iterators throw exception if the collection is modified when iterating over it.
+Fail safe does not throw exception if collection is modified when iterating over
+//
