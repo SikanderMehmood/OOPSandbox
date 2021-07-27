@@ -1,4 +1,4 @@
-package Collections;
+package Collections.Set;
 
 
 /*
@@ -6,7 +6,7 @@ package Collections;
 
 HashSet stores elements by a mechanism called hashing;
 HashSet only contain unique elements
-HashSet allow null values
+HashSet allow null value
 Hashset class is non-synchronized means not-thread safe , means two threads can access its methods at the same time;
 Hashset does not maintain insertion order , here elements are inserted on the basis of their hashcode.
 HashSet is the best approach for  search operations

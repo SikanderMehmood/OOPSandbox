@@ -1,0 +1,9 @@
+
+
+
+Process of converting one datatype to another is call TypeCasting.
+
+
+in UPCASTING child object is type-cast to parent type object.
+in DOWNCASTING parent object is type-cast to child type object.
+DOWNCASTING is not allowed in java
