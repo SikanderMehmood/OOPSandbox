@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95404820-710c-4a3d-b369-5289237019ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JPA/Jpa-Spring-Data-Jpa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/AutoBoxing-UnBoxing" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/UpCasting-DownCasting" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Comparable-Comparater" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/SpringAOP" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/SandBoxHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/Set/SandBoxHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/SandBoxLinkedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/Set/SandBoxLinkedHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/SandBoxTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/Set/SandBoxTreeSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/Answers" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions/Answers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAllVersionFeatures" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAllVersionFeatures" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics" beforeDir="false" afterPath="$PROJECT_DIR$/Topics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/Map/SandBoxHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/Map/SandBoxHashMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

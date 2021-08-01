@@ -7,4 +7,41 @@ Interface will only have abstract methods -> we cannot define methods in interfa
 
 ----------------------Features of java 1.8
 
-Stream api was introduced.
+Function interface and lambda expressions
+forEach method in iterable interface
+Optional class
+Default and static methods in interface
+Method references
+Java Stream api for Bulk Data operations on Collections
+Java Date time api
+Base64 Encode/Decode
+Collection Api improvements
+Java IO improvements
+
+-----
+Functional interface (Single abstract method interface)
+   A functional interface allow only one "Abstract method" as its member.
+   @FunctionalInterface
+   public interface functionalInterface(){
+    public void onlyOneMethod();
+   }
+   you can omit the annotation , it is there to just tell the compiler that interface will have one abstract method.
+
+-------
+Optional Class
+                Optional class is a public Final class and it is used to deal with null pointer exceptions
+                String[] str = new String[10];
+                Optional<String>checkNull =  Optional.ofNullable(str[5]);
+
+
+
+Collection Api improvements
+            Map collection has replaceAll(), computer(), merge() methods added.
+            key collision improved in hashmap.
+
+------------------------------------------------------------------------------------------------------------------------Java-11
+
+Commercial use of Java-11 new features require a license.
+
+Type interface for lambda expressions
+         You can choose to specify types of lambda parameters or omitting them when writing a lambda expression.

@@ -3,6 +3,10 @@ Java Core
   ->interface/abstract
   ->Stream Api
   ->Lambda functions
+  ->Java Exceptions
+  ->AutoBoxing/UnBoxing
+  ->UpCasting/DownCasting
+  ->Functional interface
 
 OOP
 

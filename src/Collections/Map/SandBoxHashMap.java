@@ -32,9 +32,14 @@ public class SandBoxHashMap {
         while (iterator.hasNext()){
             System.out.println("Key"+iterator.next()    +  "Value" + map.get((int)iterator.next()));
         }
+
+        System.out.println(map.values().stream().sorted());
+
     }
 
+
     //Using treeMap constructor to sort the HashMap
+    //A TreeMap is always sorted based on keys.
     public void someNewFunction(){
         TreeMap<Integer,String> treemap = new TreeMap(map);
 
