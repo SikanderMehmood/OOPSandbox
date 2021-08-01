@@ -5,6 +5,7 @@ import Implementations.PoodleDog;
 import Models.Animal;
 import Models.Dog;
 
+
 import java.util.ArrayList;
 
 public class Main {
@@ -48,13 +49,13 @@ public class Main {
     public static void a(int a, int b) {
         System.out.println("Int method");
     }
-
     public static void a(long a, long b) {
         System.out.println("long method");
     }
-
-
     public static void main(String args) {
         System.out.println("simple string");
     }
+
+
+
 }
