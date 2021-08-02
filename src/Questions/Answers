@@ -13,3 +13,8 @@ And whatever exceptions are to be thrown should be declared in the throws clause
 
 ---------------------------------
 Dependency injection : Passing dependency to other objects and frameworks
+
+---------------------------------
+
+
+     Java beans is an example of encapsulation.

@@ -1,24 +1,41 @@
-Java Core
+Java Core-------------
   ->Static keyword
   ->interface/abstract
-  ->Stream Api
+  ->Stream Api / Parallel stream
   ->Lambda functions
   ->Java Exceptions
   ->AutoBoxing/UnBoxing
   ->UpCasting/DownCasting
   ->Functional interface
+  ->Exception Handling / Checked Exceptions / Unchecked Exceptions
 
-OOP
 
-DataStructure
+OOP---------------------
+    Encapsulation
+    Abstraction
+    inheritance
+    Polymorphism
 
-Network Programming
+DataStructure-----------
+      ->Iterable interface
+      ->Collection Interface
+      ->Arrays
+      ->ArrayList
+      ->LinkedList
+      ->Set
+      ->Map
+      ->HashTable
+
+Network Programming--------
   ->Sockets
   ->Servlets
 
-Spring
+Spring----------------------
   ->Spring AOP
+  ->Spring security
   ->Spring Boot
+         ->Inversion of Control(IOC)
+         ->Dependency Injection
   ->Spring Data
   ->Design Patterns
 
