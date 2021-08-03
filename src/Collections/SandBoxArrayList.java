@@ -22,6 +22,8 @@ package Collections;
  */
 
 
+import Models.Book;
+
 import java.util.*;
 
 public class SandBoxArrayList {
@@ -91,6 +93,44 @@ public class SandBoxArrayList {
 
         return 1;
 
+    }
+
+    //Constructors
+    ArrayList arrayList = new ArrayList();
+    ArrayList arrayList1 = new ArrayList(arrayList); //You can give any collection like new ArrayList(Collection c)
+    ArrayList arrayList2 = new ArrayList(4);
+    //
+
+
+    void someMethodForArrayListFunctions(){
+        Book book  = new Book("firstBook",1);
+        Book book2  = new Book("second",1);
+
+
+        //Functions to add
+
+        arrayList.add(1,book);
+        arrayList.add(book);
+        arrayList.addAll(Arrays.asList(book,book2));
+        arrayList.addAll(2,Arrays.asList(book,book2));
+
+        //Functions to remove elements
+
+        arrayList.removeAll(Arrays.asList(book,book2));
+        arrayList.remove(1);
+        arrayList.remove(book);
+        arrayList.removeIf(oneBook->(book.equals(book2)));
+        arrayList.clear();//remove all objects from list
+
+        //Function
+        arrayList.contains(book); //returns boolean is book is in the list
+
+        arrayList.get(1);
+        arrayList.indexOf(book);
+        arrayList.lastIndexOf(book2); //returns the index of last occurance of the object , as you know list can have duplicate elements
+        arrayList.size();
+        arrayList.toArray();
+        arrayList.trimToSize(); //Trims the capacity of the arrayList to the current size
     }
 
 

@@ -16,11 +16,10 @@ In LinkList manipulations is fast because no shifting needs to occur;
 
  */
 
+import Models.Book;
 import sun.jvm.hotspot.oops.Array;
 
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
+import java.util.*;
 
 public class SandBoxLinkedList {
 
@@ -37,5 +36,34 @@ public class SandBoxLinkedList {
             list.add(eachItem);
         }
     }
+    Book book   =new Book("one",1);
+    Book book1  = new Book("Two",2);
+    Book book3  = new Book("Threee",3);
+
+    //Constructors => ways to make LinkedList
+
+    LinkedList newlist = new LinkedList();
+    LinkedList secondList = new LinkedList(Arrays.asList(book,book1,book3));
+
+
+    void someFunction(){
+
+        secondList.add(book);
+        secondList.add(1,book);
+        secondList.addAll(Arrays.asList(book,book3));
+        secondList.addFirst(book);
+        secondList.addLast(book3);
+        secondList.clear();
+        secondList.contains(book);
+        secondList.size();
+        secondList.getFirst();
+        secondList.getLast();
+        secondList.indexOf(book);
+        secondList.toArray();
+
+
+    }
+
+
 
 }
