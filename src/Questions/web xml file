@@ -1,0 +1,8 @@
+
+web.xml file
+
+
+web.xml file was used to configure dispatcher servlet in legacy java applications or spring mvc applications.
+
+
+Dispatcher servlet is the entry point to every spring mvc application.

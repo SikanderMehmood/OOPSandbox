@@ -1,0 +1,25 @@
+
+
+Stack Memory :
+             Stack memory is used for static memory allocation and execution of a thread.
+             It contains primitive values that are specific to a thread and references to objects that are in the heap.
+
+             It grows and shrinks as new methods are called and returned respectively!
+             Variables inside stack exist only as long the method that created them is running.
+             It is threadSafe as each thread operates in its own stack
+             Access to this memory is fast as compared to Heap
+             if heap memory is full , it throws stackOverFlow error
+             It automatically allocate and deallocate memory when method finish execution.
+
+
+
+Heap memory
+
+         Heap space is used for dynamic memory allocation for java objects and JRE  classes at runtime.
+         New objects are alwasys created in Heap memory and references to those objects are always stored in stack memoey!
+
+
+         Access to this memory is relatively slower that stack memory
+         This memory isn't automatically deallocated , there need to be garbage collected by JVM or manually!
+         Heap is not thread safe
+

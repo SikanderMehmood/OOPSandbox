@@ -29,7 +29,7 @@ Static Block :
               -----------------------------
 
 
-              We cannot have same class variable in a calss , we will get a stackOverflow error
+              We cannot have same class variable in a class , we will get a stackOverflow error
               you can if you declare it static
 
            public class Test{
