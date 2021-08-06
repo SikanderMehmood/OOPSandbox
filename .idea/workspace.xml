@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95404820-710c-4a3d-b369-5289237019ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Database/MySql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Behavioral/BehavioralDesignPatterns.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/CreationalDesignPatterns.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/Clone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPattern.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPatternByEarlyInstantiation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPatternByLazyInstantiation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByCloning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByDeSerialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByReflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Structural/StructuralDesignPatterns.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/ApplicationContext.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Searilization-Deserilization" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SandBox/FirstChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SandBox/FirstChild.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -119,6 +105,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Questions" />
+      <recent name="$PROJECT_DIR$/src/Spring" />
+      <recent name="$PROJECT_DIR$/src/Collections" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -170,6 +163,7 @@
       <workItem from="1614428296963" duration="5834000" />
       <workItem from="1627029106355" duration="265000" />
       <workItem from="1627032501888" duration="1207000" />
+      <workItem from="1628286212502" duration="216000" />
     </task>
     <servers />
   </component>
