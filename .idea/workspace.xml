@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95404820-710c-4a3d-b369-5289237019ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Questions/Database question - Hibernate - ORM" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Java Reflection" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/Stack - Heap Memory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/is A - has A relationship" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions/web xml file" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Database/MySql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Behavioral/BehavioralDesignPatterns.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/CreationalDesignPatterns.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/Clone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPattern.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPatternByEarlyInstantiation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPatternByLazyInstantiation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByCloning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByDeSerialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByReflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Structural/StructuralDesignPatterns.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/ApplicationContext.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/Searilization-Deserilization" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Questions/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Map/Java-Map" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/Map/Java-Map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SpringBoot" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpringBoot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Static Informatioin" beforeDir="false" afterPath="$PROJECT_DIR$/src/Static Informatioin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SandBox/FirstChild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SandBox/FirstChild.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>

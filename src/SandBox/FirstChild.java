@@ -6,6 +6,14 @@ public class FirstChild extends ParentClassSandBox{
 
     }
 
+    int some(int c)
+    {
+        return 1;
+    }
+    String some(int x, int y){
+        return "sds";
+    }
+
   public static void method2(){
       System.out.println("In child class");
     }
