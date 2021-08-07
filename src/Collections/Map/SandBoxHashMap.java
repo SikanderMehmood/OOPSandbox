@@ -10,7 +10,6 @@ Initial default capacity of HashMap is 16 with the load factor of 0.75
 
  */
 
-import apple.laf.JRSUIUtils;
 
 import java.util.*;
 

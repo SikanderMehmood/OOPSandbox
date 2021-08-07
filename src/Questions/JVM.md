@@ -39,9 +39,9 @@ DEV-TOOLS -> debugger compiler
 
 
 
-    2) RunTime Data Area
-         JVM needs memory area to store the class files and execute them.
-             Five types of memory data area.
+ 2)       RunTime Data Area
+          1) JVM needs memory area to store the class files and execute them.
+          2)  Five types of memory data area.
                   1) Method area:
                      In this part class level data is stored. e.g -> All the static variables of the class will be stored in the part of jvm memory.
                   2) Heap memory:
@@ -60,7 +60,7 @@ DEV-TOOLS -> debugger compiler
 
 
 
-   3) JVM EXECUTION ENGINE:
+3) JVM EXECUTION ENGINE:
           This engine converts the bytecode to machine code and executes the instructions.
 
           1) Interpreter :

@@ -1,0 +1,4 @@
+
+
+-> AutoBoxing is the process of converting primitive data types into corresponding Wrapper classes objects e.g int into Integer
+-> Unboxing is the process of converting wrapper class object to primitive data type.

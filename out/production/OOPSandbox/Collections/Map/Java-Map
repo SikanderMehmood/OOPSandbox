@@ -1,0 +1,27 @@
+
+
+Java Map does not allow duplicate keys
+duplicate values are allowed as well null values (TreeMAP cannot have a null key)
+
+
+
+//
+Fail fast iterators throw exception if the collection is modified when iterating over it.
+Fail safe does not throw exception if collection is modified when iterating over
+//
+
+
+Difference HashMap - HashTable
+
+HashMap is not thread safe , not synchronized.                     HashTable is synchronized. Thread safe
+HashMap allow one null key and multiple null values                HashTable does not allow null key and value.
+
+            HashMap is preffered is you don't need multithreading.
+
+
+            Why HashTable can't have null values?
+            To store and retrieve values from HashTable the objects used as keys must implement hashCode and equals() method , since null is not an
+            object it cannot implement these methods so can't have null values in HashTable
+
+
+HashMap does not call hashcode function when null key is passed and it is handled as special case.

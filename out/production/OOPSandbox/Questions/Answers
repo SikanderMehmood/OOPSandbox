@@ -9,3 +9,16 @@ And whatever exceptions are to be thrown should be declared in the throws clause
 
 2) Why main method is static
    Main method is static so compiler can call it without  creating object of the class.
+
+
+---------------------------------
+Dependency injection : Passing dependency to other objects and frameworks
+
+---------------------------------
+
+
+     Java beans is an example of encapsulation.
+
+     ---------------------
+     Can we inherit final method/inherit static method?
+     Factory method

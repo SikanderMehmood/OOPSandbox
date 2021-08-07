@@ -1,0 +1,124 @@
+--------------------------------------------------------------MySQL-------------------------------------------------------------------
+
+1) Order of MySql Query Execution
+
+1) From & Joins
+2) Where
+3) Group By
+4) Having
+6) Select
+7) Order By
+8) Limit
+
+-------------------------------
+2) Different Types of MySql joins?
+
+Joins help in retrving the data from two or more database tables using some interConnected keys among the selected tables.
+
+InnerJoin : Select column_name(s) from table1 INNER JOIN ON table.column_name = table2.column_name
+            Default join type
+
+
+Left Join:
+         It return all the rows from the left table even if there is no match in the right table.
+
+
+Right Join:
+         Return all the rows from the right table even if there is no match in left table.
+
+Full join:
+
+
+
+3)--------------------------------------------------------------------
+How to improve performance of Select query?
+->Use Indexes
+->Only fetch columns you need , Avoid using unecessary *;
+->Use Distinct only if necessary
+->Use Short table aliases. (parse more quickly)
+Avoid WildCard(%) at the start of Like Pattern.
+
+
+4)----------------------------------
+How many triggers are allowed in MySql table.
+   MySql support triggers that are invoked automatically.
+   ->BEFORE INSERT
+   ->AFTER INSERT
+   ->BEFORE UPDATE
+   ->AFTER UPDATE
+   ->BEFORE DELETE
+   ->AFTER DELETE
+
+
+5)------------------------------------
+Different set operations available in MySql?
+
+UNION
+     Combines result from multiple SELECT queries.
+     Returns all distinct rows.
+UNION ALL
+         Returns all rows from all the tables meeting  the query.
+MINUS
+       Returns all distinct rows selected by first query but not the second query.
+INTERSECT
+         Intersection of both the queries
+
+
+
+6)------------------------------------
+Test for Null values in Database
+
+use "IS NULL" or "IS NOT NULL"
+
+7)------------------------------------
+BLOB : binary large objects , used to store binary data
+Text: Non-binary character based string data type
+
+8)------------------------------------
+DELETE vs TRUNCATE
+
+Delete all data of the table
+Delete data can be retrieved by commit and rollback
+WHERE condition can be used
+
+---
+TRUNCATE delete data permanently
+commit and rollback not possible
+Where condition can't be used.
+---------------------------------------
+                                                               Reference : https://www.youtube.com/watch?v=GQpO-JXieKs
+
+
+
+--------------------------------------------------------------SQL------------------------------------------------------------------------------
+
+What are constraints?
+Difference between sql and Mysql?
+Primary key , Foreign key?
+Clustered index, Non clustered index?
+What is deNormalization?
+What is index?
+Different types of index?
+What is Normalization? //to avoid duplication and redundancy.
+Types of Normalization?
+ACID property in database?
+
+
+
+-----
+Atomicity // Transaction is either completely done or completely failed. if one part of transaction failed whole transaction is rollbaced.
+Consistency // Data meets all the validation rules.
+Isolation //   concurrency control
+Durability //  Transaction will complete mo matter what.
+
+ ----------
+ Triggers : Special type of stored procedures that invoke automatically when data in modified/inserted/updated in the database.
+
+
+
+ Relationships in database
+       one to one relationship
+       one to many relationship
+       many to one relationship
+       self refreshing relationship
+

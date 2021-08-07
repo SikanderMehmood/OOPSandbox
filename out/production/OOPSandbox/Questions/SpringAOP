@@ -1,0 +1,34 @@
+
+
+Basic unit of modularization in AOP is Aspect.
+AOP models an aspect of an application i.e Logging , transaction
+
+These aspects are cut across multiple types and objects known as cross cutting concerns.
+
+
+Aspect :
+       An aspect is modularization of concerns that cut across multiple classes.
+       For example Logging
+       In Spring aspects can be managed through regular classes and @Aspect annotation/Xml configuration.
+
+
+JoinPoint :
+        A join point is a point during the execution of a program i.e the execution of another method or handling an exception.
+        in Spring join points are always method execution.
+
+
+Advice-The Action
+
+        An Advice is an action taken at a specific join point.
+        Advices are plain java methods with one of the Advice annotations.
+        Advices in Spring are
+        @Before
+        @After
+        @After returning
+        @After Throwing
+        @Around
+
+        Spring framework models an advice and maintains a chain of interceptors around the join point.
+
+
+PointCut- The show runner
