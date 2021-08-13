@@ -2,12 +2,13 @@ Java Core-------------
   ->Static keyword
   ->interface/abstract
   ->Stream Api / Parallel stream
+  ->CompareAble/Comparator
   ->Lambda functions
-  ->Java Exceptions
   ->AutoBoxing/UnBoxing
   ->UpCasting/DownCasting
   ->Functional interface
   ->Exception Handling / Checked Exceptions / Unchecked Exceptions
+  ->multithreading
 
 
 OOP---------------------

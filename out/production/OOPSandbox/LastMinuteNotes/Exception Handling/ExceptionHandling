@@ -1,0 +1,35 @@
+
+Custom Exception :
+                 public class WrongFileNameException extends Exception {
+                     public WrongFileNameException(String errorMessage) {
+                     super(errorMessage);
+                     }
+                 }
+
+
+Checked Exception
+                 The classes that directly inherit the Throwable class except RuntimeException and Error are known as checked
+                 exceptions. For example, IOException, SQLException, etc. Checked exceptions are checked at compile-time.
+
+Unchecked Exception
+                   The classes that inherit the RuntimeException are known as unchecked exceptions. For example, ArithmeticException,
+                   NullPointerException, ArrayIndexOutOfBoundsException, etc. Unchecked exceptions are not checked at compile-time,
+                    but they are checked at runtime
+
+
+ try
+ Nested try block
+                  Java Nested try block
+                  In Java, using a try block inside another try block is permitted. It is called as nested try block.
+                  Every statement that we enter a statement in try block, context of that exception is pushed onto the stack.
+ catch
+       A try block can be followed by one or more catch blocks.Each catch block must contain a different exception handler. So,
+       if you have to perform different tasks at the occurrence of different exceptions, use java multi-catch block.
+       At a time only one exception occurs and at a time only one catch block is executed.
+       All catch blocks must be ordered from most specific to most general, i.e. catch for ArithmeticException must come before catch for Exception.
+
+ finally
+ throw
+ throws
+
+

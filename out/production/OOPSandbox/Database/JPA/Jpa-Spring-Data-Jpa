@@ -1,0 +1,13 @@
+
+https://www.youtube.com/watch?v=GX3D0OIFOhE
+
+---------------------------------------------------
+Database.JPA (Java-Persistence-Api)
+   It's a specification for accessing, persisting and managing data between java objects
+
+   Database.JPA is just a specification and you need some tool to implement it.
+
+Spring Data Jpa is an abstraction on top of Database.JPA and Hibernate.
+Spring data jpa adds another layer of abstraction over your jpa implementation provider.
+
+

@@ -1,0 +1,22 @@
+
+
+IS A - Relationship depends on inheritance;
+
+For example a Potato is a Vegetable.
+A Car is vehicle.
+
+
+
+HAS A- Relationship is known as composition.
+it is also used for code reUsability in java.
+
+it simply means Instance of one class has reference to the instance of another class.
+ -> Car has a engine.
+
+
+
+    Java beans is an example of encapsulation.
+
+
+     Can we inherit final method/inherit static method?
+         Factory method

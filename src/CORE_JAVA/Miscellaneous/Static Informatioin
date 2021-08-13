@@ -1,0 +1,63 @@
+
+Static Block :
+              This block is executed when class is loaded into the memory and execute before main method.
+              That means  you can run your java program without main method with the help of static block.
+
+              exclusion of main method is only till java 6 , after that version you have to have main method.
+
+
+
+
+              ------------------------------------
+              Immutable Strings in java
+
+              ------------------------------------
+              Why main method is static
+                 Main method is static so compiler can call it without  creating object of the class.
+
+
+
+
+
+              Parent class methods that are static are not part of a child class (although they are accessible),
+              so there is no question of overriding it. Even if you add another static method in a subclass,
+              identical to the one in its parent class, this subclass static method is unique and distinct
+              from the static method in its parent class.
+
+
+              Because if we are declaring any method with the final keyword, we are
+              indicating the JVM to provide some special attention and make sure no one can override it.
+              As you know by use of the overriding concept, we can provide the different implementation in child classes.
+              But sometimes we want to provide only default
+              implementation to each child class. We can prevent the overriding of the method by use of the final keyword.
+
+              -----------------------------
+
+
+              We cannot have same class variable in a class , we will get a stackOverflow error
+              you can if you declare it static
+
+           public class Test{
+
+           Test(){
+                System.out.println("");
+           }
+             static Test t = new Test();
+
+             public static void main(){
+              Test test =new Test();
+
+             }
+
+           }
+
+              Reference:  https://www.youtube.com/watch?v=f07nsoaFpeA
+
+
+              ---------------------
+Why we can't make outer class static ?
+              https://dzone.com/articles/why-an-outer-class-cant-be-static
+
+class cannot be private or protected in java.
+              http://net-informations.com/java/cjava/private.htm
+              https://stackoverflow.com/questions/3869556/why-can-a-class-not-be-defined-as-protected
