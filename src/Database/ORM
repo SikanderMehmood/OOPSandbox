@@ -1,0 +1,38 @@
+Top ORM tools
+
+1) Hibernate
+2) Top Link
+3) Eclipse Link
+4) OPen JPA
+5) MyBatis
+
+-----------------
+Why choose hibernate?
+
+Association mapping is one of the key feature of hibernate. it supports the same association as the relational database model.
+like
+1) one to one
+2) one to many /many to one
+3) many to many
+
+---------------------
+
+Some important interfaces in hibernate are
+1) Session factory
+2) Session
+3) Transaction
+-----------
+-----------
+
+VIEW in database.
+-----------
+Hibernate architecture
+-------
+what is HQL
+-----------
+Associations supported by hibernate
+----------
+Composition in database
+-------------------
+
+Having clause -> agreegation methods ,

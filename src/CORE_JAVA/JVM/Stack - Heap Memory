@@ -16,7 +16,7 @@ Stack Memory :
 Heap memory
 
          Heap space is used for dynamic memory allocation for java objects and JRE  classes at runtime.
-         New objects are alwasys created in Heap memory and references to those objects are always stored in stack memoey!
+         New objects are always created in Heap memory and references to those objects are always stored in stack memory!
 
 
          Access to this memory is relatively slower that stack memory

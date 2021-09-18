@@ -43,19 +43,28 @@ Spring----------------------
 
 ------------------------
 
-//hash map and hash table
-//keyword to make method thread safe
-//has a / is a relationship
-//string mutable example
-//stack memory and heap memory
-//Garbage collector
-//Memory lekage
-//multilpe constructors
-//Clustring
-//Web.xml
-//math.random
-//triggers /
-//indexing
-//Servlets
-//
+hash map and hash table
+keyword to make method thread safe
+has a / is a relationship
+string mutable example
+stack memory and heap memory
+Garbage collector
+Memory lekage
+multiple constructors
+Clustering
+Web.xml
+math.random
+triggers
+indexing
+Servlets
 
+
+-----------------
+Asynchronous programming
+Java Generics
+Java concurrency Api
+Java stream ap
+
+High availability, High Scalability , high performance enterprise  architecture and  design
+---------------------------------------------
+How to avoid spaghetti design in application development.

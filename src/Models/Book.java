@@ -1,6 +1,8 @@
 package Models;
 
-public class Book {
+import SandBox.B;
+
+public class Book{
     String name;
     int pages;
 
@@ -28,4 +30,5 @@ public class Book {
     public void setPages(int pages) {
         this.pages = pages;
     }
+
 }

@@ -1,6 +1,11 @@
-1) Is it necessary that each try block must be followed by a catch block?
+  1) Is it necessary that each try block must be followed by a catch block?
 Answer: No it is not necessary , try block can be followed by either by
 -> Catch block
 -> Finally block
 
 And whatever exceptions are to be thrown should be declared in the throws clause of the method.
+
+
+
+
+

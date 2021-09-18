@@ -13,7 +13,7 @@
 -------------------------------
 2) Different Types of MySql joins?
 
-Joins help in retrving the data from two or more database tables using some interConnected keys among the selected tables.
+Joins help in retrieving the data from two or more database tables using some interConnected keys among the selected tables.
 
 InnerJoin : Select column_name(s) from table1 INNER JOIN ON table.column_name = table2.column_name
             Default join type
@@ -41,6 +41,9 @@ Avoid WildCard(%) at the start of Like Pattern.
 
 4)----------------------------------
 How many triggers are allowed in MySql table.
+
+Triggers are special type of stored procedures that are designed to automatically execute in place of after data modification.
+
    MySql support triggers that are invoked automatically.
    ->BEFORE INSERT
    ->AFTER INSERT

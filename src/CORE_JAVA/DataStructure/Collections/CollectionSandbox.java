@@ -21,8 +21,4 @@ public interface CollectionSandbox {
      int size();//return size on invoking collection.
      Object[] toArray();//Returns object array on the invoking collection
      Object[] toArray(Collection collection);//return an array of the collection passed as argument
-
-
-
-
 }

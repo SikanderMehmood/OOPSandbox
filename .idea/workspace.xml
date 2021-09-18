@@ -1,100 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="95404820-710c-4a3d-b369-5289237019ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Multithreading/Concurrency-Threads" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Multithreading/MAIN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Multithreading/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Multithreading/MathUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Multithreading/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Multithreading/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Multithreading/main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Multithreading/main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Multithreading/main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Multithreading/main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/OOP/Polymorphism" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Database/Transaction/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LastMinuteNotes/Exception Handling/ExceptionHandling" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LastMinuteNotes/Exception Handling/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Models/SampleEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SandBox/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SandBox/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SandBox/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SandBox/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SandBox/InterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/AbstractCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/List/AbstractList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/List/ArrayDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/List/CopyOnWriteArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/ListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/AbstractMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/Concurrent/ConcurrentHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/Concurrent/ConcurrentMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/Concurrent/ConcurrentNavigableMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/Concurrent/ConcurrentSkipListMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/EnumMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/IdentityHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/NavigableMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/SortedMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/WeakHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/ArrayBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/BlockingDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/BlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/ConcurrentLinkedDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/ConcurrentLinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/DelayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/LinkedBlockingDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/LinkedBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/LinkedTrasnferQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/PriorityBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/SynchronousQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/TransferQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/TaskQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/AbstractSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/Concurrent/ConcurrentSkipListSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/Concurrent/CopyOnWriteArraySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/JumboEnumSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/NavigableSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/RegularEnumSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Overview.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Database/Cascading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Database/ORM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Database/Questions-Answers" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Spring/DummyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Spring/DummyService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics" beforeDir="false" afterPath="$PROJECT_DIR$/Topics" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/CollectionSandbox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/DATA-STRUCTURE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/IteratorSandbox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/Map/Java-Map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/Map/SandBoxHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/Map/SandBoxLinkedHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/Map/SandBoxTreeMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/Queue/SandboxPirorityQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/SandBoxArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/SandBoxLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/Set/SandBoxHashSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/Set/SandBoxLinkedHashSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/Set/SandBoxTreeSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Collections/Set/SortedSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/SandBoxHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/SandBoxHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/SandboxPirorityQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/SandBoxArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/SandBoxLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/SandBoxHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/SandBoxLinkedHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/SandBoxTreeSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/MathUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/MathUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/Thread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/Thread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main5$MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main5$MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/CDType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/CDType.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/Main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/JPA/Jpa-Spring-Data-Jpa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/ObjectPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/ObjectPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternByLazyInstantiation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternByLazyInstantiation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByDeSerialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByDeSerialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByReflection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByReflection.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/Answers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/ApplicationContext.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/AutoBoxing-UnBoxing" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/Comparable-Comparater" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/Database question - Hibernate - ORM" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/JVM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/Java Reflection" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/JavaAllVersionFeatures" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/Searilization-Deserilization" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/SpringAOP" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/Stack - Heap Memory" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/Static Informatioin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/UpCasting-DownCasting" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/is A - has A relationship" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Questions/web xml file" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/FirstChild.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/ParentClassSandBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Spring/Spring basics" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Spring/Spring basics" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/CollectionSandbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/CollectionSandbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/DATA-STRUCTURE" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/DATA-STRUCTURE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/IteratorSandbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/IteratorSandbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Map/Java-Map" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/Java-Map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Map/SandBoxHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/SandBoxHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Map/SandBoxLinkedHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/SandBoxLinkedHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Map/SandBoxTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/SandBoxTreeMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Queue/SandboxPirorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/SandboxPirorityQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/SandBoxArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/SandBoxArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/SandBoxLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/SandBoxLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Set/SandBoxHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/SandBoxHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Set/SandBoxLinkedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/SandBoxLinkedHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Set/SandBoxTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/SandBoxTreeSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/Set/SortedSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/SortedSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JPA/Jpa-Spring-Data-Jpa" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/JPA/Jpa-Spring-Data-Jpa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/InterfaceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/InterfaceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/CollectionSandbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/CollectionSandbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Queue/SandboxPirorityQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/SandBoxArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/List/SandBoxArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/SandBoxLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/List/SandBoxLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/SandBoxHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/HashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/SandBoxLinkedHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/LinkedHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/SandBoxTreeSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Set/TreeSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/JVM/Stack - Heap Memory" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/JVM/Stack - Heap Memory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/ExceptionHandling" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/ExceptionHandling" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/OOP/is A - has A relationship" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/OOP/is A - has A relationship" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/Database question - Hibernate - ORM" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/Database question - Hibernate - ORM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/MySql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/MySql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/Transaction/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/Transaction/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByDeSerialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByDeSerialization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/Answers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/ApplicationContext.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring/ApplicationContext.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/AutoBoxing-UnBoxing" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/AutoBoxing-UnBoxing" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/Comparable-Comparater" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Comparable-Comparater" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/Database question - Hibernate - ORM" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/Database question - Hibernate - ORM" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/JVM.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/JVM/JVM.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/Java Reflection" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Java Reflection" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/JavaAllVersionFeatures" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/JavaAllVersionFeatures" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/Searilization-Deserilization" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Searilization-Deserilization" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/SpringAOP" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring/SpringAOP" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/Stack - Heap Memory" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/JVM/Stack - Heap Memory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/Static Informatioin" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Static Informatioin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/UpCasting-DownCasting" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/UpCasting-DownCasting" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/is A - has A relationship" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/OOP/is A - has A relationship" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/ExceptionHandling" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Questions/web xml file" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring/web xml file" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SandBox/FirstChild.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SandBox/ParentClassSandBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Spring/Spring basics" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring/Spring basics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Models/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Models/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SandBox/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SandBox/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SandBox/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SandBox/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SandBox/InterfaceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SandBox/InterfaceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spring/Spring basics" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring/Spring_basics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spring/SpringAOP" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring/SpringAOP" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,8 +111,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -197,6 +204,9 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -207,13 +217,13 @@
       <recent name="$PROJECT_DIR$/src/Database" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.main6">
-    <configuration name="MAIN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CORE_JAVA.Miscellaneous.Multithreading.MAIN" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="InterfaceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SandBox.InterfaceImpl" />
       <module name="OOPSandbox" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CORE_JAVA.Miscellaneous.Multithreading.*" />
+          <option name="PATTERN" value="SandBox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,25 +231,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CORE_JAVA.Miscellaneous.Multithreading.main3" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="OOPSandbox" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CORE_JAVA.Miscellaneous.Multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CORE_JAVA.Miscellaneous.Multithreading.main4" />
+    <configuration name="TreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CORE_JAVA.DataStructure.Collections.Set.TreeSet" />
       <module name="OOPSandbox" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CORE_JAVA.Miscellaneous.Multithreading.*" />
+          <option name="PATTERN" value="CORE_JAVA.DataStructure.Collections.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,11 +279,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TreeSet" />
+        <item itemvalue="Application.InterfaceImpl" />
         <item itemvalue="Application.main6" />
         <item itemvalue="Application.main5" />
-        <item itemvalue="Application.main4" />
-        <item itemvalue="Application.main3" />
-        <item itemvalue="Application.MAIN" />
       </list>
     </recent_temporary>
   </component>

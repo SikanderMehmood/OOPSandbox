@@ -16,7 +16,6 @@ public class SingletonPatternToAvoidObjectCreationByDeSerialization implements S
                     obj=new SingletonPatternToAvoidObjectCreationByDeSerialization();
                 }
             }
-
         }
         return obj;
     }
