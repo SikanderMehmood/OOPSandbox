@@ -1,0 +1,36 @@
+1) What is connection pooling?
+    Connection pooling is cache of authenticated database connections maintained by your database driver from which your appliation
+    can borrow connections when it needs to run database connections.After each operation is complete , the connection is kept alive
+    and returned to the pool.
+    When properly used connection pools allows you to minimize the frequency of new connections and the number of connections to
+    your database.
+
+
+
+
+2) What is context switching?
+    When CPU switches from executing  one thread to another   , CPU needs to save local data , program pointers etc of current thread ,
+    Then CPU can load data and program pointer of next thread will be executed.This is called context switching and it used a lot of
+    CPU cycles if there are too many context switches.
+
+3) Deadlock in database?
+   In database , deadlock is a situation in which two or more transaction are waiting for one another to give up locks.
+
+   Transaction  A     -> Lock on table Accounts  -> need to update some records in Orders Table.
+   Transaction  B     -> Lock on table Orders    -> need to update some records in Accounts Table.
+   Transaction  A cannot complete its operation because of lock on ORDERS Table.
+   Transaction  B cannot complete its operation because of lock on Accounts Table.
+
+
+  Now activity comes to HALT until DBMS detects deadlock and abort one of the transaction.
+
+
+
+
+4) Different ways applications communicate with each other ?
+    1)Use http (Rest/Soap) api's
+    2) Sockets provide the programmer with the facility to allow their applications to communicate over the network.Sockets provide
+    two networked machines with the bidirectional communication channel; One machine will be server listening in for the connection
+    and other will be Client machine attempting to make the connection.
+    3) MQTT (MQ Telemetry Transport) is a messaging protocol that was created to address the need for simple and lightweight method
+       to transfer data from/to low powered devices.

@@ -32,3 +32,6 @@ Advice-The Action
 
 
 PointCut- The show runner
+--------------------------------------
+
+You create @Aspect class to implement your cross cutting concerns

@@ -11,10 +11,6 @@ AbstractCollection
 Collector
 Collectors
 
-
-
-
-
 =>List(i)
          AbstractList
          ArrayDeque
@@ -93,3 +89,6 @@ Under Concurrent package ----------------
     ConcurrentNavigableMap(i)
     ConcurrentSkipListMap
 
+-----------------------
+Arraylist use dynamic array behind the scene.
+vector also use dynamic array

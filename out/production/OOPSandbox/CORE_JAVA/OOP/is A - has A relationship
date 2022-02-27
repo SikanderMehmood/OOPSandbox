@@ -20,3 +20,16 @@ it simply means Instance of one class has reference to the instance of another c
 
      Can we inherit final method/inherit static method?
          Factory method
+
+         ------------
+
+         Composition
+         Car has a Engine object
+         Strong relationship
+         both classes are not  independent of each other.
+
+         --------
+         Aggregation is weak relationship
+         team and players
+         a player can exist without the team
+

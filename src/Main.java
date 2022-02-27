@@ -7,6 +7,7 @@ import Models.Book;
 import Models.Dog;
 import Models.SampleEnum;
 import SandBox.*;
+import com.sun.codemodel.internal.JForEach;
 
 
 import javax.xml.namespace.QName;
@@ -14,37 +15,27 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 
-class MyComparator implements Comparator<Book>{
-
-    @Override
-    public int compare(Book o1, Book o2) {
-        return o1.getName().compareTo(o2.getName());
-    }
-}
-
-
 public class Main {
 
-    public static Book generateBookObjects(){
-        return new Book("book1", (int) Math.random());
-    }
+    static List<Integer> globalList = new ArrayList<>();
+    static int x=0;
+    static int bias=0;
 
     public static void main(String[] args) {
 
-        Set<Book> newset = new TreeSet<>(new MyComparator());
+        List<Integer> ratings = new ArrayList<>();
+        ratings.add(4);
+        ratings.add(2);
+        ratings.add(5);
+        ratings.add(1);
+        globalList.addAll(ratings);
 
-        newset.add(new Book("book2", 10));
-        newset.add(new Book("book3", 7));
-        newset.add(generateBookObjects());
-        newset.add(generateBookObjects());
+        int size = ratings.size();
+        for (Integer var : ratings) {
+            ratings.remove(var);
+            System.out.println(ratings);
 
-        for(Book one :newset){
-            System.out.println(one.getName() + " " +  one.getPages());
+
         }
 
-
-
-
-
-}
-}
+    }}
