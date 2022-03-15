@@ -1,0 +1,36 @@
+
+
+A monolith divided into smaller services so each service can be independantly deployable and scaleable.
+
+
+=>New Technology and process adoption
+In microservice you can just try a new language/framework and build a new service around that , you can't do this in a monolith app.
+
+=> You can scale up and scale down individual microservices depending on their usage.
+
+=> Faster release cycle
+
+
+-----
+Challenges
+1) Bounded context
+
+-> Deciding the boundaries of the microservices , like which functionality goes in which service.
+-> Configuration management , like connecting to database
+-> Dynamaic scale up and scale down
+-> Visibility
+-> Zero downtime deployments
+
+------------------
+Tools to build world class microservices
+
+
+Spring cloud umbrella projects
+Centralized configuration management system (Spring cloud config server)
+Location transparency - Naming server (Eureka)
+Load distribution (Spring cloud load balancer,Ribbon)
+Visibility and Monitoring (Zipkin)
+API gateway (zuul, spring cloud gateway)
+Fault tolerance (Hystrix)
+
+-----------------------------------------------------------------------------------------------------
