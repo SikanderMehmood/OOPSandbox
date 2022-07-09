@@ -49,7 +49,7 @@ has a / is a relationship
 string mutable example
 stack memory and heap memory
 Garbage collector
-Memory lekage
+Memory leakage
 multiple constructors
 Clustering
 Web.xml
@@ -63,7 +63,7 @@ Servlets
 Asynchronous programming
 Java Generics
 Java concurrency Api
-Java stream ap
+Java stream api
 
 High availability, High Scalability , high performance enterprise  architecture and  design
 ---------------------------------------------

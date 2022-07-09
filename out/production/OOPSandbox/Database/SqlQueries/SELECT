@@ -1,0 +1,87 @@
+
+SELECT  name,continent, region FROM Country WHERE Continent = 'Europe' ORDER BY Name LIMIT 5 OFFSET 5 ;
+// will fetch 5 records after the first 5 records where continent is europe and ascending order by name;
+//Maintain this order for select query
+-----------------------
+
+You can retrieve columns in any order like
+SELECT continent ,name , region FROM Country;
+SELECT name , continent , region FROM Country;
+SELECT name,continent FROM Country;             //to get only two columns
+
+SELECT name AS "Country Name" , continent, region FROM Country;   // AS is used to change column name when retrieving.
+
+-----------------------------------------------------------------------
+
+To Count
+
+SELECT COUNT(*) FROM Country;  //count all rows in table Country;
+
+SELECT COUNT(name) FROM Country; // count all rows where column name is present
+
+SELECT COUNT(*) FROM Country WHERE Population > 1000000 AND Continent='Europe';
+
+
+----------------------------------------------------------------------------------
+
+Constrains
+
+CREATE TABLE test (name TEXT UNIQUE, age TEXT, rollNo TEXT DEFAULT '123');
+
+we have defined unique constraint on column name , so if you try to add duplicate name it will give an error.
+
+NULL is exempt from UNIQUE Constraint.
+
+-----------------------------------------------------------------------------------
+
+ADD column / change dataType of Column
+
+ALTER TABLE test ADD gender TEXT DEFAULT 'MALE';
+
+-------------------------------------------------------------------------------------------
+FILTER DATA => WHERE Clause
+
+SELECT name, Population, FROM Country WHERE Population < 100000 AND Continent = 'ASIA' ORDER BY Population DESC;
+
+adding a wildcard
+
+SELECT name,Population FROM Country WHERE name LIKE '%island%' ORDER BY name ;   if the name column have string 'island' , it can be in start , in the end or in middle , double % says that
+
+'%island'  means all the names that end with island , % means anything in the start
+
+'island%'  means all names that start with the word island ,
+
+SELECT name, Continent, Population FROM Country WHERE Name LIKE '_A%'  // select all names where 'a' is the second character and any characters after
+
+IN Operator match values in a list
+
+SELECT name, Continent , Population FROM Country WHERE Continent IN ('Europe','Asia') ORDER BY name;
+
+---------------------------------------------
+
+SELECT DISTINCT Continent FROM Country;  // to remove all duplicate values
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

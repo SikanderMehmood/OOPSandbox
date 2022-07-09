@@ -5,11 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95404820-710c-4a3d-b369-5289237019ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Database/JDBC_SPRING_JDBC/JDBC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/Capture.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/Capture1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spring/Springmvc/Notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Lambda&amp;Streams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/OOP/OOP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Database/SqlQueries/SELECT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics" beforeDir="false" afterPath="$PROJECT_DIR$/Topics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Architecture/Architect 101" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Architecture/Architect 101" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Database/MySql" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Database/MySql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Spring/ApplicationContext.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Spring/ApplicationContext.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Architecture/Architect 101" beforeDir="false" afterPath="$PROJECT_DIR$/src/Architecture/Architect 101" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/JDBC_SPRING_JDBC/JDBC.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/JDBC_SPRING_JDBC/JDBC.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/MySql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/MySql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spring/ApplicationContext.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring/ApplicationContext.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +130,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -131,7 +144,7 @@
       <recent name="$PROJECT_DIR$/src/Database" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SelectionSort">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PracticeProblems.BubbleSort" />
       <module name="OOPSandbox" />
@@ -193,10 +206,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TreeSet" />
       </list>
     </recent_temporary>
@@ -240,7 +253,9 @@
       <workItem from="1651431010511" duration="920000" />
       <workItem from="1651449466771" duration="595000" />
       <workItem from="1651702551130" duration="6000" />
-      <workItem from="1651770752594" duration="973000" />
+      <workItem from="1651770752594" duration="1675000" />
+      <workItem from="1652137982820" duration="2000" />
+      <workItem from="1653913286515" duration="21000" />
     </task>
     <servers />
   </component>
@@ -311,7 +326,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

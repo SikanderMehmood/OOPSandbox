@@ -1,41 +1,68 @@
-import Implementations.BullDog;
-import Implementations.ChildClass;
-import Implementations.HippoAnimal;
-import Implementations.PoodleDog;
-import Models.Animal;
-import Models.Book;
-import Models.Dog;
-import Models.SampleEnum;
-import SandBox.*;
-import com.sun.codemodel.internal.JForEach;
 
+import java.util.HashMap;
+import java.util.Map;
 
-import javax.xml.namespace.QName;
-import java.util.*;
-import java.util.stream.Collectors;
+public class GFG {
 
+    int solve(int n, String str)
+    {
 
-public class Main {
+        HashMap<Integer, Integer> mymap
+                = new HashMap<>();
+        int len = str.length();
 
-    static List<Integer> globalList = new ArrayList<>();
-    static int x=0;
-    static int bias=0;
+        for (int i = 0; i < len; i++) {
+            char c = str.charAt(i);
+            if (c == '5')
+                c = '2';
+            else if (c == '9')
+                c = '6';
+            int c_int = Integer.parseInt(String.valueOf(c));
+            if (mymap.containsKey(c_int))
+                mymap.put(c_int, mymap.get(c_int) + 1);
+            else
+                mymap.put(c_int, 1);
+        }
+        HashMap<Integer, Integer> rems = new HashMap<>();
 
-    public static void main(String[] args) {
+        while (n > 0) {
+            int rem = n % 10;
+            if (rem == 5)
+                rem = 2;
+            if (rem == 9)
+                rem = 6;
+            if (rems.containsKey(rem))
+                rems.put(rem, rems.get(rem) + 1);
+            else
+                rems.put(rem, 1);
 
-        List<Integer> ratings = new ArrayList<>();
-        ratings.add(4);
-        ratings.add(2);
-        ratings.add(5);
-        ratings.add(1);
-        globalList.addAll(ratings);
-
-        int size = ratings.size();
-        for (Integer var : ratings) {
-            ratings.remove(var);
-            System.out.println(ratings);
-
-
+            n = n / 10;
         }
 
-    }}
+        int cnt = Integer.MAX_VALUE;
+
+        for (Map.Entry<Integer, Integer> ele : rems.entrySet()) {
+
+            int key = ele.getKey();
+
+            if (!mymap.containsKey(key))
+                return 0;
+
+            int temp = mymap.get(key)
+                    / ele.getValue();
+
+            cnt = Math.min(cnt, temp);
+        }
+        return cnt;
+    }
+
+    // Driver Code
+    public static void main(String args[])
+    {
+
+        GFG obj = new GFG();
+        int N = 56;
+        String M = "245769";
+        System.out.println(obj.solve(N, M));
+    }
+}

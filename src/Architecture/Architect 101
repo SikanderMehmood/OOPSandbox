@@ -1,6 +1,6 @@
 
 
-A monolith divided into smaller services so each service can be independantly deployable and scaleable.
+A monolith divided into smaller services so each service can be independently deployable and scalable.
 
 
 =>New Technology and process adoption
@@ -17,7 +17,7 @@ Challenges
 
 -> Deciding the boundaries of the microservices , like which functionality goes in which service.
 -> Configuration management , like connecting to database
--> Dynamaic scale up and scale down
+-> Dynamic scale up and scale down
 -> Visibility
 -> Zero downtime deployments
 

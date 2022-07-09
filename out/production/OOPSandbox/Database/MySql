@@ -33,7 +33,7 @@ Full join:
 3)--------------------------------------------------------------------
 How to improve performance of Select query?
 ->Use Indexes
-->Only fetch columns you need , Avoid using unecessary *;
+->Only fetch columns you need , Avoid using unnecessary *;
 ->Use Distinct only if necessary
 ->Use Short table aliases. (parse more quickly)
 Avoid WildCard(%) at the start of Like Pattern.
