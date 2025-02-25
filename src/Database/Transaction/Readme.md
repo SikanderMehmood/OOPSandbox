@@ -26,7 +26,7 @@ Index is the performance tuning method for fast retrieval of records from the ta
 Clustred index:  reorders the table , can be only one in a table , search on the basis of key values.
 Not clustred index: can be many in a table , does not change the physical order of the table,
 
-
+   
 
 Drop -> remove complete table = no table
 Truncate -> remove all rows = empty table

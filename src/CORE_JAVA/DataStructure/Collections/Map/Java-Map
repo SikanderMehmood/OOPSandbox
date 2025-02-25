@@ -25,3 +25,12 @@ HashMap allow one null key and multiple null values                HashTable doe
 
 
 HashMap does not call hashcode function when null key is passed and it is handled as special case.
+
+
+persistant context
+entity manager
+detachable entity
+
+
+
+sessions and query string

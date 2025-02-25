@@ -125,3 +125,30 @@ Durability //  Transaction will complete mo matter what.
        many to one relationship
        self refreshing relationship
 
+
+       -------------------------------------------------------------
+       Normalization is the process of organizing data to avoid duplication and redundancy.
+       Types of normalizaion :
+       1nf
+       2nf
+       3nf
+       bcnf
+
+------------------
+Tiggers are special type of stored procedures that are defined to execuate automatically before or after data modifications.
+before insert
+after insert
+before update
+after update
+before delete
+after delete
+
+
+----------------------------
+Having clause can only be used with SELECT statement. it is usually used in groupBy statement.
+
+
+--------------------------------
+interceptor in java and spring
+benchmark , at given time how many requests can handle
+wora

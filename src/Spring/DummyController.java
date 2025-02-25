@@ -1,4 +1,8 @@
 package Spring;
 
-public class DummyController {
+public class DummyController implements Runnable {
+    @Override
+    public void run() {
+
+    }
 }

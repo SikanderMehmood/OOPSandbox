@@ -5,23 +5,183 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95404820-710c-4a3d-b369-5289237019ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Lambda&amp;Streams" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/OOP/OOP" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Database/SqlQueries/SELECT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCheckList.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImportantQuestions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/AdvancedQuestion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/JavaStrings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/JavaStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CORE_JAVA/java_streams.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Database/HibernateInterViewQuestion-level-1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Database/newDBQuestion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/SOLID.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Models/SubOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Spring/SpringSecurity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SystemDesign/SystemDesign-101.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Time_Space_Complexity/TimeCompexity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Web/GerneralWebQuestions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/some.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics" beforeDir="false" afterPath="$PROJECT_DIR$/Topics" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Architecture/Architect 101" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Architecture/Architect 101" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/AbstractCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/AbstractCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/CollectionSandbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/CollectionSandbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Collections.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Collections.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/IteratorSandbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/IteratorSandbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/List/AbstractList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/List/AbstractList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/List/ArrayDeque.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/List/ArrayDeque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/List/CopyOnWriteArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/List/CopyOnWriteArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/List/SandBoxArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/List/SandBoxLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/List/SandBoxLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/ListIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/ListIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/AbstractMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/AbstractMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/Concurrent/ConcurrentHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/Concurrent/ConcurrentHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/Concurrent/ConcurrentMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/Concurrent/ConcurrentMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/Concurrent/ConcurrentNavigableMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/Concurrent/ConcurrentNavigableMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/Concurrent/ConcurrentSkipListMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/Concurrent/ConcurrentSkipListMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/EnumMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/EnumMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/HashTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/HashTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/IdentityHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/IdentityHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/Java-Map" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/Java-Map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/NavigableMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/NavigableMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/SandBoxHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/SandBoxHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/SandBoxLinkedHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/SandBoxLinkedHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/SandBoxTreeMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/SandBoxTreeMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/SortedMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/SortedMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/WeakHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Map/WeakHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/AbstractQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/AbstractQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/ArrayBlockingQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/ArrayBlockingQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/BlockingDeque.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/BlockingDeque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/BlockingQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/BlockingQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/ConcurrentLinkedDeque.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/ConcurrentLinkedDeque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/ConcurrentLinkedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/ConcurrentLinkedQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/DelayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/DelayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/LinkedBlockingDeque.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/LinkedBlockingDeque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/LinkedBlockingQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/LinkedBlockingQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/LinkedTrasnferQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/LinkedTrasnferQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/PriorityBlockingQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/PriorityBlockingQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/SynchronousQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/SynchronousQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/TransferQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Concurrent/TransferQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Deque.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Deque.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/PriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/PriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/TaskQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Queue/TaskQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/AbstractSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/AbstractSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/Concurrent/ConcurrentSkipListSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/Concurrent/ConcurrentSkipListSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/Concurrent/CopyOnWriteArraySet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/Concurrent/CopyOnWriteArraySet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/HashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/HashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/JumboEnumSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/JumboEnumSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/LinkedHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/LinkedHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/NavigableSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/NavigableSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/RegularEnumSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/RegularEnumSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/SortedSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/SortedSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/TreeSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/DataStructure/Collections/Set/TreeSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/JVM/Stack - Heap Memory" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/JVM/Stack - Heap Memory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Comparable-Comparater" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Comparable-Comparater" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/MAIN$MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/MAIN$MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/MAIN.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/MAIN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/Main2$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/Main2$InnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/MathUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/MathUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/Thread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/Thread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main5$MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main5$MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Multithreading/main6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Static Informatioin" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Miscellaneous/Static Informatioin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/CORE_JAVA/Questions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Database/Cascading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Database/Cascading.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Database/MySql" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Database/MySql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Database/Transaction/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Database/Transaction/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/AbstractFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/BankFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/BankFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/BusinessLoan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/BusinessLoan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/CBI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/CBI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/EducationalLoan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/EducationalLoan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/FactoryCreator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/FactoryCreator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/HDFC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/HDFC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/HomeLoan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/HomeLoan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/ICICI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/ICICI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/Loan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/Loan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/LoanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/LoanFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/AbstractFactoryPattern/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/CD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/CD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/CDBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/CDBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/CDType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/CDType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/Company.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/Packing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/Packing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/Samsung.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/Samsung.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/Sony.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/Builder/Sony.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/FactoryPattern/CommercialPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/FactoryPattern/CommercialPlan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/FactoryPattern/DomesticPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/FactoryPattern/DomesticPlan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/FactoryPattern/GetPlanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/FactoryPattern/GetPlanFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/FactoryPattern/InstitutionalPlan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/FactoryPattern/InstitutionalPlan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/FactoryPattern/Plan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/FactoryPattern/Plan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/FactoryPattern/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/FactoryPattern/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/ExportingProcess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/ExportingProcess.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/ExportingTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/ExportingTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/ObjectPool$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/ObjectPool$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/ObjectPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/ObjectPoolPattern/ObjectPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/PrototypePattern/EmployeeRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/PrototypePattern/EmployeeRecord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/PrototypePattern/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/PrototypePattern/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/PrototypePattern/Prototype.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/PrototypePattern/Prototype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/PrototypePattern/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/PrototypePattern/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/Clone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/Clone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternByEarlyInstantiation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternByEarlyInstantiation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternByLazyInstantiation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternByLazyInstantiation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternLazyInnerClassSingleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternLazyInnerClassSingleton$SingletonHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternLazyInnerClassSingleton$SingletonHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternLazyInnerClassSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternLazyInnerClassSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByCloning.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByCloning.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByDeSerialization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByDeSerialization.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByReflection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPatternToAvoidObjectCreationByReflection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/DesignPatterns/Creational/SingletonPattern/SingletonPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/BullDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/BullDog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/ChildClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/ChildClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/HippoAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/HippoAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/LionAnimal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/LionAnimal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/PoodleDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Implementations/PoodleDog.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Spring/ApplicationContext.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Spring/ApplicationContext.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Architecture/Architect 101" beforeDir="false" afterPath="$PROJECT_DIR$/src/Architecture/Architect 101" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Dog$DogNestedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Dog$DogNestedClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/DummyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/DummyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Mammals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/Mammals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/ParentClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/ParentClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/SampleEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/SampleEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Models/SomeNewDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Models/SomeNewDog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/PracticeProblems/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/PracticeProblems/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/PracticeProblems/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/PracticeProblems/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/PracticeProblems/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/PracticeProblems/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/InterfaceA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/InterfaceA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/InterfaceB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/InterfaceB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/InterfaceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/SandBox/InterfaceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Spring/DummyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Spring/DummyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPSandbox/Spring/DummyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPSandbox/Spring/DummyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/List/SandBoxArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/List/SandBoxArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/HashTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/Java-Map" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/DataStructure/Collections/Map/Java-Map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/JVM/Stack - Heap Memory" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/JVM/Stack - Heap Memory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Comparable-Comparater" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Comparable-Comparater" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Lambda&amp;Streams" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Lambda&amp;Streams" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Static Informatioin" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Miscellaneous/Static Informatioin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CORE_JAVA/Questions.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/CORE_JAVA/Questions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Database/JDBC_SPRING_JDBC/JDBC.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/JDBC_SPRING_JDBC/JDBC.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Database/MySql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/MySql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database/Transaction/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database/Transaction/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/Creational/PrototypePattern/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/Creational/PrototypePattern/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Spring/ApplicationContext.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring/ApplicationContext.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Spring/DummyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Spring/DummyController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,17 +281,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "D:/Work/UCODE/UCode"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Github\OOPSandbox\src\Resources" />
@@ -171,6 +325,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JavaStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CORE_JAVA.Miscellaneous.JavaStrings" />
+      <module name="OOPSandbox" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CORE_JAVA.Miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="OOPSandbox" />
@@ -191,26 +358,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CORE_JAVA.DataStructure.Collections.Set.TreeSet" />
-      <module name="OOPSandbox" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CORE_JAVA.DataStructure.Collections.Set.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.JavaStrings" />
         <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.InsertionSort" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.TreeSet" />
       </list>
     </recent_temporary>
   </component>

@@ -68,3 +68,15 @@ Java stream api
 High availability, High Scalability , high performance enterprise  architecture and  design
 ---------------------------------------------
 How to avoid spaghetti design in application development.
+
+-----------------------------------
+wrapper design pattersns
+java memory leak
+design patterns
+
+---------------------------------
+infinite loop and stackoverflow error -> creating new instance inside the constructor
+
+-------------------------------------------
+composite key in database
+------------------------------------------

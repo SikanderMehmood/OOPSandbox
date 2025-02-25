@@ -21,5 +21,5 @@ Heap memory
 
          Access to this memory is relatively slower that stack memory
          This memory isn't automatically deallocated , there need to be garbage collected by JVM or manually!
-         Heap is not thread safe
+         Heap is not thread safe.
 

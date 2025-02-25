@@ -61,3 +61,6 @@ Why we can't make outer class static ?
 class cannot be private or protected in java.
               http://net-informations.com/java/cjava/private.htm
               https://stackoverflow.com/questions/3869556/why-can-a-class-not-be-defined-as-protected
+
+              ///optamistinc locking
+              //
