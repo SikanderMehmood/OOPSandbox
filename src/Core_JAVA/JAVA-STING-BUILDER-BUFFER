@@ -1,0 +1,32 @@
+
+
+Strings are mutable in java , once strings are created its value cannot be changed.
+They are stored in string pool
+
+ when new string is create using "" , java first checks if we have a string in string pool with similar value , if yes same value reference if used here.
+ It returns the referene of the existing object in the pool , new object is not created
+
+ if String is created with new Keyword like new String("sssssss"); // This way a new object will be created in heap irrespective of if similar value object already exists in pool
+ with NEW keyword it will be created in heap OUTSIDE of the String pool
+
+
+ prior to JDK-7 , string pool was located in permGen memory , after jdk-7 it is located in heap.
+
+String in pool needs to be mutable , as its value can be referenced to multiple places.
+
+All String objects are immutable , either they are in pool or in heap ! for simplicity purpose
+
+
+====================================================================
+
+String Builder
+
+String builder is not thread safe resulting in better performance than string buffer as there is no association with locking / unlocking resources.
+
+
+
+
+String buffer
+
+String buffer is thread safe and bit slow than String builder due to overhead assocoated with locking and unlocking resources resulting in slower performance.
+

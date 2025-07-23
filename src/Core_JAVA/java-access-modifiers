@@ -1,0 +1,15 @@
+
+
+
+
+Default
+
+only classes within the same package will be able to access it.
+compile time error when accessing outside package
+
+
+protected
+
+Protected are accessible within the same package of in subclasses in different packages.
+
+

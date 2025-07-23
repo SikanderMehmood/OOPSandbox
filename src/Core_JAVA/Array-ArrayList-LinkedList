@@ -3,7 +3,8 @@
 Array is fixed size homogeneous data structure used for storing elements of same data type
 Generics are not supported in Array
 In Array values are stored at contiguous  locations.
-
+A Java program can only allocate an array up to a certain size. It generally depends on the JVM that we’re using and the platform. Since the index of the array is int,
+the approximate index value can be (2^31)-1
 
 
 While ArrayList is dynamic size , provides more flexibility and builtin methods.
@@ -22,11 +23,26 @@ This allows for constant  retrieval time. O(1)
 
     When an element is added , it will be added at the next possible index.
     When removed whole arrayList needs to be adjusted to fill the gap -> This can be expensive as of O(n)
-    
-    
-    
+
+
+
     -----------------------------------------------------------------------------------------------------------------------------------------------
 
+
+LinkedList
+
+LinkedList stores elements in container. When a new element comes it be stored in a new container and then it will be linked with the old container.
+BuiltIn Methods of LinkedList
+
+Doubly LinkedList is used internally , so when finding an element you have to traverse over all elements and can be of complexity O(n)
+
+
+addFirst()
+addLast()
+removeFirst()
+removeLast()
+getFirst()
+getLast()
 
 
 

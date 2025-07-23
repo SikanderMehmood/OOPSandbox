@@ -1,7 +1,0 @@
-
-
-Strings are immutable , means once created cannot be changed.
-Characters in the created string cannot be changed;
-Length of the String cannot be changed;
-When we concatenate a string , we are creating a new string , the old strings are left unaltered.
-

@@ -1,0 +1,20 @@
+
+
+Memory Leak
+
+Unused objects that are still being referenced are the cause of memory leaks.
+
+Memory leaks through static fields -> static fields have a lifespan of program itself , hance when GC() they are not removed.
+
+When you open a stream/database connection / session  and forget to close them , they stay in memory and are being references , even though they are not being used anymore.
+
+
+Avoid finalize methods
+
+objects of class with finalize methods are not instantly garbage collected instead they are kept for finalization which occurs at a later point in time.
+
+
+
+
+
+

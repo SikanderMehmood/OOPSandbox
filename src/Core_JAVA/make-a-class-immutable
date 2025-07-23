@@ -1,0 +1,17 @@
+
+
+
+
+immutable means once the object is created its value cannot be changed and the class cannot be extended
+
+
+
+make the class as final
+
+make all fields private and final
+
+
+do not provide setter methods
+
+initiliaze all fields with a contructor
+

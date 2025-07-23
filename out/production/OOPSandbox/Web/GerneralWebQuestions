@@ -5,7 +5,7 @@ It helps in transmission of data from client end to server end.
 
 -----------------
 What are safe methods?
-Methods like    HEAD , GET , OPTIONS , TRACE are called as   safe methods becasuse they are only intented to get the information from the servcer and are not meant to change the state of the origin server.
+Methods like    HEAD , GET , OPTIONS , TRACE are called as   safe methods because they are only intended to get the information from the servcer and are not meant to change the state of the origin server.
 
 
 -------------------

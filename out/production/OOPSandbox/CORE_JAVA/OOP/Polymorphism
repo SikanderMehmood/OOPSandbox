@@ -1,8 +1,0 @@
-
- Ability of object to take many forms!
-
- Polymorphism in java allows us to perform same action in different ways.
-
- Compile time              Runtime
- Method overloading        Method overriding
-
