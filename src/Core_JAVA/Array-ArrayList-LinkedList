@@ -1,0 +1,37 @@
+
+
+Array is fixed size homogeneous data structure used for storing elements of same data type
+Generics are not supported in Array
+In Array values are stored at contiguous  locations.
+
+
+
+While ArrayList is dynamic size , provides more flexibility and builtin methods.
+
+Primitives can be stored directly in array but wrapper classes are used when storing in arrayList
+Generics are supported in ArrayList.
+In ArrayList values are not stored at contiguous locations however reference to those ArrayList objects are stored at contiguous locations.
+
+ArrayList objects are stored in the heap memory , however it internally used an array to store the references for those objects.
+
+When elements are added in the arrayList and list reaches its capacity , the ArrayList creates a new array typically 50% larger than the old array size.
+
+
+In ArrayList , Elements are accessed using their index similar to how they are accessed in traditional array.
+This allows for constant  retrieval time. O(1)
+
+    When an element is added , it will be added at the next possible index.
+    When removed whole arrayList needs to be adjusted to fill the gap -> This can be expensive as of O(n)
+    
+    
+    
+    -----------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
